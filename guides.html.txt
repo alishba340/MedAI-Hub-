@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedAI Hub - Guides</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>MedAI Hub</h1>
+        <p>Learn Medicine. The Smart Way.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="tools.html">Tools</a>
+        <a href="prompts.html">Prompts</a>
+        <a href="guides.html">Guides</a>
+        <a href="about.html">About</a>
+    </nav>
+
+    <div class="container">
+        <h2>AI Study Guides</h2>
+        <p>Learn how to use AI responsibly and effectively in your studies:</p>
+
+        <h3>1. How to Use AI Without Cheating</h3>
+        <p>Always verify the content with textbooks. Use AI to summarize, create prompts, and check understanding, not copy answers.</p>
+
+        <h3>2. Study Workflow Using AI</h3>
+        <ul>
+            <li>Step 1: Review the textbook chapter.</li>
+            <li>Step 2: Ask AI to summarize in your own words.</li>
+            <li>Step 3: Generate MCQs for self-testing.</li>
+            <li>Step 4: Revise using prompts and flashcards.</li>
+        </ul>
+
+        <h3>3. Verifying AI Content</h3>
+        <p>Always cross-check important medical information from textbooks or trusted sources.</p>
+    </div>
+
+    <footer>
+        &copy; 2026 MedAI Hub | Created by Alishba
+    </footer>
+</body>
+</html>
